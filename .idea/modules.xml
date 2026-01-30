@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Assignment1/Assignment1.iml" filepath="$PROJECT_DIR$/Assignment1/Assignment1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MIT-6.092-Introduction-To-Programming-In-Java.iml" filepath="$PROJECT_DIR$/.idea/MIT-6.092-Introduction-To-Programming-In-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assn1/assn1.iml" filepath="$PROJECT_DIR$/assn1/assn1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assn2/assn2.iml" filepath="$PROJECT_DIR$/assn2/assn2.iml" />
     </modules>
   </component>
 </project>
