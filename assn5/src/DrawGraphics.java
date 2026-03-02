@@ -8,7 +8,7 @@ public class DrawGraphics {
     
     /** Initializes this class for drawing. */
     public DrawGraphics() {
-        //ArrayList<BouncingBox> boxes = new ArrayList<BouncingBox>();
+        //ArrayList<BouncingBox> boxes = new ArrayList<BouncingBox>();要放在构造器外面
         box = new BouncingBox(200, 50, Color.RED);
         BouncingBox box2 = new BouncingBox(200, 50, Color.GREEN);
         box2.setMovementVector(1,-1);
