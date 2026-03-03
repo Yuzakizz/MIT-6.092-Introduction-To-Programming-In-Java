@@ -31,4 +31,4 @@ public class MagicSquares {
             }
                 return constant;
         }
-}
+}//
